@@ -1,0 +1,17 @@
+.title{
+    color: aqua;
+    justify-content: center;
+    display:flex;
+    background-color: rgb(12, 44, 33);
+}
+.heading{
+    color: rgb(246, 49, 22);
+    justify-content: center;
+    display:flex;
+}
+.info{
+    color: rgb(246, 49, 22);
+    justify-content:flex-end;
+    display:flex;
+    
+}
